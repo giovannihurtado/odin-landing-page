@@ -119,7 +119,7 @@ a {
 }
 
 .subtitle {
-  margin-bottom: 20px;
+  margin-bottom: 30px;
   font-size: 24px;
   color: #1f2937;
   text-align: center;
@@ -170,7 +170,7 @@ a {
 .about div p {
   font-size: 36px;
   font-style: italic;
-  font-weight: 100;
+  font-weight: 300;
   color: #1f2937;
   line-height: 1.4;
 }
@@ -184,11 +184,34 @@ a {
 }
 
 .contact {
-  padding: 20px;
+  padding: 30px 20px;
 }
 
-.contact div {
+.contact h3 {
+  margin-bottom: 20px;
+  color: #3882f6;
+  text-align: center;
+}
+
+.contact-info {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0 auto;
+  max-width: 900px;
+  padding: 20px;
   background-color: #3882f6;
+  border-radius: 8px;
+  gap: 0 20px;
+}
+
+.contact-info p {
+  color: #e5e7eb;
+  line-height: 1.5;
+}
+
+.btn-cta {
+  border: #e5e7eb solid 1.5px;
 }
 
 .footer {
