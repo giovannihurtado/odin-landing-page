@@ -28,7 +28,8 @@ The landing page is organized into key sections for intuitive navigation:
 
 **Footer:** Includes copyright information and important links like privacy policy or terms and conditions (optional).
 
-###Technologies Used
+### Technologies Used
+
 HTML5: For the page's structure and content.
 
 `.btn {
@@ -41,3 +42,7 @@ HTML5: For the page's structure and content.
   color: #e5e7eb;
   background-color: #3882f6;
 }`
+
+This project is a static webpage, so it doesn't require a complex server.
+
+[GitHUb] (https://github.com/giovannihurtado/odin-landing-page.git)
