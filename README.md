@@ -1,8 +1,10 @@
-#Project: Tourism Landing Page
-##Project Description
+# Project: Tourism Landing Page
+
+## Project Description
+
 This project is a tourism-focused landing page, designed to attract visitors and guide them towards exploring travel destinations and offers. The page is built using semantic HTML5 and is prepared for styling with CSS and adding interactivity with JavaScript.
 
-##The main goals are to:
+## The main goals are to:
 
 Showcase attractive destinations: Display inspiring images and descriptions of places to visit.
 
@@ -10,12 +12,13 @@ Communicate the value proposition: Explain what makes the tourism agency or serv
 
 Facilitate contact: Offer clear ways for interested users to get in touch.
 
-###Project Structure
+### Project Structure
+
 The landing page is organized into key sections for intuitive navigation:
 
 ##Header: Contains the agency's logo, the main navigation menu (Home, About, Contact), and an impactful hero section with an eye-catching title, a brief description, and a call-to-action (CTA).
 
-###Main Content:
+### Main Content:
 
 **Home:** Displays a grid of featured destination cards, each with an image and a concise description.
 
