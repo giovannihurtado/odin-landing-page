@@ -215,6 +215,8 @@ a {
 }
 
 .footer {
-  padding: 20px;
+  padding: 40px;
   background-color: #1f2937;
+  text-align: center;
+  color: #e5e7eb;
 }
